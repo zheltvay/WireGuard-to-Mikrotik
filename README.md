@@ -1,4 +1,4 @@
-# WireGuard → MikroTik (RouterOS) Конвертер (PHP 8)
+# WireGuard.conf → MikroTik.rsc - Конвертер (PHP 8)
 
 Проста PHP-сторінка для імпорту конфігурації WireGuard (текст або `.conf`) та генерації скрипту RouterOS `.rsc` для MikroTik. Згенерований файл зберігається локально, а команди відображаються на сторінці.
 
