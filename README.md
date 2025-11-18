@@ -25,8 +25,3 @@
 ## Імпорт у RouterOS
 - Завантажте `.rsc` у MikroTik `Files`.
 - Виконайте `import file-name=<file>.rsc` у терміналі.
-
-## Нотатки
-- `Endpoint` підтримує формати `host:port` та `[IPv6]:port`.
-- Записи `Address` додаються через `/ip address add ...` до інтерфейсу.
-- Портативна PHP (`php/`) і згенеровані файли ігноруються `.gitignore`.
